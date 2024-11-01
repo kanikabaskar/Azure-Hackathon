@@ -10,8 +10,8 @@ from fpdf import FPDF
 app = Flask(__name__)
 
 # Azure Document Intelligence configuration
-document_intelligence_endpoint = os.getenv("DOCUMENT_INTELLIGENCE_ENDPOINT", "https://hackbox.cognitiveservices.azure.com/")
-document_intelligence_key = os.getenv("DOCUMENT_INTELLIGENCE_KEY", "9IkdlVbcs9dxSWbmfoy06fDEqZ5etPkD7KEZH36YMhmJcirXH5ESJQQJ99AJACYeBjFXJ3w3AAALACOGTftc")
+document_intelligence_endpoint = os.getenv("DOCUMENT_INTELLIGENCE_ENDPOINT"")
+document_intelligence_key = os.getenv("DOCUMENT_INTELLIGENCE_KEY")
 custom_model_id = "OCR"
 
 # Create a Document Analysis client
@@ -22,8 +22,8 @@ document_analysis_client = DocumentAnalysisClient(
 
 # Azure OpenAI configuration
 openai.api_type = "azure"
-openai.api_base = os.getenv("OPENAI_API_BASE", "https://hospitalai.openai.azure.com/")
-openai.api_key = os.getenv("OPENAI_API_KEY", "8otLIq09Lkw8fPsdx4CDMjWgzf5ci7MSanP2wW9R4Cw8rOyK1qMlJQQJ99AJACYeBjFXJ3w3AAABACOGXMbh")
+openai.api_base = os.getenv("OPENAI_API_BASE")
+openai.api_key = os.getenv("OPENAI_API_KEY")
 openai.api_version = "2023-05-15"
 
 # Extract text from the custom model
