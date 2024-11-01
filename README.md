@@ -32,6 +32,12 @@ Our solution automates medical data processing using Azure's OCR and AI capabili
 ### [Power BI Dashboard Link](https://app.powerbi.com/links/lDA_RI28yW?ctid=ec326058-c61a-4a13-bb31-2c67177dfa01&pbi_source=linkShare&bookmarkGuid=aa71d255-60b3-4051-afff-e0c4cf470ee9) 
 This link provides access to the Power BI dashboard for viewing visual insights on patient trends and healthcare usage.
 
+## Dashboard :
+## PAGE 1:![Screenshot 2024-10-31 222727](https://github.com/user-attachments/assets/5de379c8-e1cc-463e-9a01-1729bc83f6a0)
+
+## PAGE 2:![Screenshot 2024-10-31 222739](https://github.com/user-attachments/assets/92b860c2-3a0a-4211-a0b1-76841f532d94)
+
+
 ## Installation and Setup
 1. **Clone the Repository**
     ```bash
