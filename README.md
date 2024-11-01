@@ -29,7 +29,7 @@ Our solution automates medical data processing using Azure's OCR and AI capabili
 3. **Data Storage and Accessibility**: Extracted data is securely stored in Azure Blob Storage, ensuring easy access and compliance with healthcare regulations.
 4. **Data Visualization with Power BI**: A comprehensive dashboard provides visual insights into patient demographics, trends, and usage patterns, aiding in data-driven decision-making.
 
-### [Power BI Dashboard Link](your-dashboard-link-here) : https://app.powerbi.com/links/lDA_RI28yW?ctid=ec326058-c61a-4a13-bb31-2c67177dfa01&pbi_source=linkShare&bookmarkGuid=aa71d255-60b3-4051-afff-e0c4cf470ee9
+### [Power BI Dashboard Link](https://app.powerbi.com/links/lDA_RI28yW?ctid=ec326058-c61a-4a13-bb31-2c67177dfa01&pbi_source=linkShare&bookmarkGuid=aa71d255-60b3-4051-afff-e0c4cf470ee9) 
 This link provides access to the Power BI dashboard for viewing visual insights on patient trends and healthcare usage.
 
 ## Installation and Setup
