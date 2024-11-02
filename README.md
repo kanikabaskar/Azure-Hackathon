@@ -77,10 +77,10 @@ This link provides access to the Power BI dashboard for viewing visual insights 
 - **Integration with Additional Healthcare APIs**: Incorporate other healthcare data systems for a more comprehensive patient record system.
 
 ## Contributors
+- Kanika B
 - Bhuvaneshwar V
 - Devesh S B
 - Harshavardhini M
-- Kanika B
 - Srijith R
 
 ---
